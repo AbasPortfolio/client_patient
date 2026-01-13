@@ -107,7 +107,7 @@ const PatientList = () => {
   };
 
   return (
-    <div className="d-flex vh-100">
+    <div className="d-flex h-auto">
       {/* Left Section */}
       
 
