@@ -114,7 +114,7 @@ const PatientList = () => {
       {/* Right Section */}
       <div
         className="bg-white p-5 shadow-lg rounded d-flex flex-column justify-content-center align-items-center"
-        style={{ width: "100%", height: "100vh", overflowY: "scroll" }}
+        style={{ width: "100%", height: "auto", overflowY: "scroll" }}
       >
         <h2 className="text-center mb-4">Patient Records</h2>
 
